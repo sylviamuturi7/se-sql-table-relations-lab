@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pandas = "*"
 pytest = "*"
+pipenv = "*"
+shell = "*"
 
 [dev-packages]
 
